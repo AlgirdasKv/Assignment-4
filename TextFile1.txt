@@ -2,4 +2,4 @@ Algirdas Kvedaravicius
 first commit
  branch build1
  Local change
- This is a conflict
+ TEST PULL REQUEST
